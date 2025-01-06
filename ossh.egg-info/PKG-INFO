@@ -1,15 +1,19 @@
 Metadata-Version: 2.1
 Name: ossh
 Version: 1.0.0
-Summary: A Python tool for SSH-related utilities.
+Summary: Professional SSH Connection Manager
 Home-page: https://github.com/sallfarr77/ossh
 Author: Salman Al Farisi
 Author-email: sallman.alffarisi@gmail.com
 License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: rich==13.9.4
-Requires-Dist: setuptools==75.7.0
+Requires-Dist: rich>=13.9.4
 
 # OSSH - Simple SSH Connection Manager
 
