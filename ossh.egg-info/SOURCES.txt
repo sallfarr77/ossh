@@ -1,0 +1,10 @@
+LICENSE
+README.md
+ossh.py
+setup.py
+ossh.egg-info/PKG-INFO
+ossh.egg-info/SOURCES.txt
+ossh.egg-info/dependency_links.txt
+ossh.egg-info/entry_points.txt
+ossh.egg-info/requires.txt
+ossh.egg-info/top_level.txt
