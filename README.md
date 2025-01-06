@@ -122,7 +122,7 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL-3.0 license - see the LICENSE file for details.
 
 ## Acknowledgments
 
